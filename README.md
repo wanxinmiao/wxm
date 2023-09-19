@@ -1,4 +1,4 @@
 # wxm
 My first repository on github
 
-I love :coffe: :pizza: and :dancer:
+I love :coffee: :pizza: and :dancer:
